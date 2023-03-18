@@ -1,8 +1,8 @@
 # Overview
-Get Started the Markdown basic examples
+Get started the Markdown basic examples
 
 # List
-You'd hit below link item for more examples
+You'd hit below link items for more examples
 > - [Block Quotes](/Blockquotes.md)
 > - [Code](/Code.md)
 > - [Emphasis](/Emphasis.md)
