@@ -24,3 +24,6 @@ git clone https://github.com/jovanliuc/get-started-markdown.git
 - [Table](/extended-syntax/Table.md)
 - [Fenced Code Blocks](/extended-syntax/Fenced-Code-Blocks.md)
 - [Footnotes](/extended-syntax/Footnotes.md)
+
+## Misc
+- [English Dialog Practice](/misc/English-Dialog-With-5-Guys.md)
