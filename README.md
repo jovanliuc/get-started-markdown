@@ -25,6 +25,7 @@ git clone https://github.com/jovanliuc/get-started-markdown.git
 - [Fenced Code Blocks](/extended-syntax/Fenced-Code-Blocks.md)
 - [Footnotes](/extended-syntax/Footnotes.md)
 - [Heading IDs](/extended-syntax/Heading-IDs.md)
+- [Definition Lists](/extended-syntax/Definition-Lists.md)
 
 ## Misc
 - [English Dialog Practice](/misc/English-Dialog-With-5-Guys.md)
