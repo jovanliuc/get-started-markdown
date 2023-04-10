@@ -28,6 +28,7 @@ git clone https://github.com/jovanliuc/get-started-markdown.git
 - [Definition Lists](/extended-syntax/Definition-Lists.md)
 - [Strikethrough](/extended-syntax/Strikethrough.md)
 - [Task Lists](/extended-syntax/Task-Lists.md)
+- [Emoji](/extended-syntax/Emoji.md)
 
 ## Misc
 - [English Dialog Practice](/misc/English-Dialog-With-5-Guys.md)
