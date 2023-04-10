@@ -1,6 +1,6 @@
 # Overview
 This is a dialog for your practice, 
-you'd invite your guys joining it,
+you'd invite your guys joining it at most 5 people,
 go ahead!
 
 # Roles:
