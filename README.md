@@ -1,5 +1,10 @@
 # Overview
-Get started the Markdown basic examples
+Get started the Markdown with below examples,
+you'd download this repo to your local for your reference
+via below command line
+```shell
+git clone https://github.com/jovanliuc/get-started-markdown.git
+```
 
 # List
 ## Basic Syntax
