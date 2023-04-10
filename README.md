@@ -26,6 +26,7 @@ git clone https://github.com/jovanliuc/get-started-markdown.git
 - [Footnotes](/extended-syntax/Footnotes.md)
 - [Heading IDs](/extended-syntax/Heading-IDs.md)
 - [Definition Lists](/extended-syntax/Definition-Lists.md)
+- [Strikethrough](/extended-syntax/Strikethrough.md)
 
 ## Misc
 - [English Dialog Practice](/misc/English-Dialog-With-5-Guys.md)
