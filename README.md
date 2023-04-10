@@ -23,3 +23,4 @@ git clone https://github.com/jovanliuc/get-started-markdown.git
 ## Extended Syntax
 - [Table](/extended-syntax/Table.md)
 - [Fenced Code Blocks](/extended-syntax/Fenced-Code-Blocks.md)
+- [Footnotes](/extended-syntax/Footnotes.md)
