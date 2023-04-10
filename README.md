@@ -32,6 +32,7 @@ git clone https://github.com/jovanliuc/get-started-markdown.git
 - [Highlight](/extended-syntax/Highlight.md)
 - [Superscript](/extended-syntax/Superscript.md)
 - [Automatic URL Linking](/extended-syntax/Automatic-URL-Linking.md)
+- [Disabling Automatic URL Linking](/extended-syntax/Disabling-Automatic-URL-Linking.md)
 
 ## Misc
 - [English Dialog Practice](/misc/English-Dialog-With-5-Guys.md)
